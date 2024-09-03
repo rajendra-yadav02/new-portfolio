@@ -35,7 +35,7 @@ const Home = () => {
         Software Developer
         </motion.h5>
         <motion.div className="cta" variants={itemVariants}>
-          <a href="Rajendra Yadav_new" download className="btn">
+          <a href="Rajendra Yadav_new.pdf" download className="btn">
             Download CV
           </a>
           <a href="#contact" className="btn btn-primary">
